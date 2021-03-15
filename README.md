@@ -1,9 +1,6 @@
 # Java_Swing
 
-**Java Swing is a lightweight Java graphical user interface (GUI) widget toolkit that includes a rich set of widgets. 
-  It is part of the Java Foundation Classes (JFC) and includes several packages for developing rich desktop applications in Java. 
-  Swing includes built-in controls such as trees, image buttons, tabbed panes, sliders, toolbars, color choosers, tables, and text areas to display HTTP or rich      text format (RTF). 
-  Swing components are written entirely in Java and thus are platform-independent.**
+**   **
   
   
  **Login.java**
@@ -17,12 +14,11 @@
 
 _________________________________________________________________________________________________________________________________________________________________
 
-**Hashing is the practice of using an algorithm to map data of any size to a fixed length. This is called a hash value (or sometimes hash code or hash sums or even a hash digest).Whereas encryption is a two-way function, hashing is a one-way function. While it’s technically possible to reverse-hash something, the computing power required makes it unfeasible. Hashing is one-way.
-Now, whereas encryption is meant to protect data in transit, hashing is meant to verify that a file or piece of data hasn’t been altered—that it is authentic. In other words, it serves as a check-sum.**
+**A hash function is any function that can be used to map data of arbitrary size to fixed-size values. The values returned by a hash function are called hash values, hash codes, digests, or simply hashes. The values are usually used to index a fixed-size table called a hash table. Use of a hash function to index a hash table is called hashing or scatter storage addressing.**
 
 **Hasher.java**
 
-**Hash your password with SHA-256 hash algorithm**
+**Hash your password with SHA-256 hash algorithm.**
 
 
 
