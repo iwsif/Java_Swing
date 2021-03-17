@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 Run(if you want to use tor as proxy):
   
-     sudo apt-get install tor(DEBIAN,UBUNTU) or sudo yum install tor (CENTOS,FEDORA,SUSE,REDHAT).
+     sudo apt-get install tor (DEBIAN,UBUNTU) or sudo yum install tor (CENTOS,FEDORA,SUSE,REDHAT).
       
 Steps:
     
