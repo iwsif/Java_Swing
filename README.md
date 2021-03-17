@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 **Hash your password with SHA-256 hash algorithm.**
 
-**SHA-256 && SHA-512**
+**SHA-256**
 
 *SHA-2 is an algorithm, a generalized idea of how to hash data. SHA-256 sets additional constants that define the SHA-2 algorithm’s behavior. One such constant is the output size. “256” and “512” refer to their respective output digest sizes in bits.*
 
