@@ -45,5 +45,24 @@ Steps:
 __________________________________________________________________________________________________________________________________________________________________
 
 
+**scanner.jar**
+
+**Scan all 65535 ports with the help of java sockets!!**
+
+Requires:
+  
+      Tor(Run sudo apt-get install tor(DEBIAN,UBUNTU) or sudo yum install tor (CENTOS,FEDORA,SUSE,REDHAT).
+      
+Steps:
+    
+    1)jar -xf scanner.jar
+    2) 
+    
+
+
+
+
+
+
 
 
