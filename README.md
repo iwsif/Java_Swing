@@ -1,6 +1,6 @@
 # Java_Swing
 
-**** 
+**Swing is a part of Java Foundation classes (JFC), the other parts of JFC are java2D and Abstract window toolkit (AWT). AWT, Swing & Java 2D are used for building graphical user interfaces (GUIs) in java.Swing API is used for building GUIs on the top of AWT and is much more light-weight compared to AWT.** 
 
 ________________________________________________________________________________________________________________________________________________________________
   
@@ -15,7 +15,9 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________
 
-****
+**WHAT IS HASH?**
+
+**** 
 
 **Hasher.java**
 
