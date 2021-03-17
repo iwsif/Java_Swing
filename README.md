@@ -49,7 +49,7 @@ ________________________________________________________________________________
 
 **Scan all 65535 ports with the help of java sockets!!**
 
-Run(if you want to use tor as proxy):
+if you want to use tor as proxy:
   
      sudo apt-get install tor (DEBIAN,UBUNTU) or sudo yum install tor (CENTOS,FEDORA,SUSE,REDHAT).
       
