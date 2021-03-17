@@ -56,7 +56,8 @@ if you want to use tor as proxy:
 Steps:
     
     1)jar -xf scanner.jar
-    2) 
+    2)javac Finder.java
+    3)java Finder 
     
 
 
