@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 **WHAT IS CHF(Cryptographic hash function)?**
 
-****
+**A cryptographic hash function (CHF) is a mathematical algorithm that maps data of arbitrary size (often called the "message") to a bit array of a fixed size (the "hash value", "hash", or "message digest"). It is a one-way function, that is, a function which is practically infeasible to invert.[1] Ideally, the only way to find a message that produces a given hash is to attempt a brute-force search of possible inputs to see if they produce a match, or use a rainbow table of matched hashes. Cryptographic hash functions are a basic tool of modern cryptography.**
 
 **Hasher.java**
 
